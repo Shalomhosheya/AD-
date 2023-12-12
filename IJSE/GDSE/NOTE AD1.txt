@@ -1,0 +1,27 @@
+Arctiecture Software 
+
+*Overall structures pattern organising
+
+internal and external
+
+*User interfaces-outputs as external quality
+*Coding-inputs as internal quality
+
+Improve the quality of internal 
+
+Layered Architecture
+*extended MVC
+
+Presenatation layer -  user interfaces.
+Business Layer - business logic handling
+Pesistence Layer - databases management in coding DB connection
+Data Layer - insert data queries are in database.
+
+Bollerplate codes = duplicate codes,more complex
+
+Rules
+
+1.Loose Coupling - tightly coupled class are removed through loose coupling example: girl,boy relationship status
+2.Dependency Injection - 
+3.High cohesion - In an unit,the same process must be done example - Customer Management and Item Management cannot be inserted 
+4.Less Bollerplate Codes - less code dupliction must be done/less code complesity
